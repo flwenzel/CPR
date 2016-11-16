@@ -1,2 +1,1 @@
-# CPR
-Correlated Probit Regression
+# CPR (Correlated Probit Regression)
