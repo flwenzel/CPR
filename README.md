@@ -1,6 +1,6 @@
 # Probit-LMM
 
-Implementation of the Probit-LMM presented in the paper:
+Implementation of the Algorithm **Probit-LMM** presented in the paper:
 
 **Mandt, Wenzel, et al.: *"Sparse Probit Linear Mixed Model"*, Machine Learning Jul 2017, ISSN 1573-0565.**
 
